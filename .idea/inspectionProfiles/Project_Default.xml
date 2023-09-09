@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="src.main.sklearn" />
+          <option value="utils.dataloader.sklearn" />
+          <option value="algorithms.clustering_algorithms.*" />
+          <option value="tensorflow.*" />
+          <option value="f_datasets.meddle.letter.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
